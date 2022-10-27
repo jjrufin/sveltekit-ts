@@ -1,0 +1,18 @@
+{
+	"flexComponents": [
+		{
+			"componentName": "BreakerCta",
+			"fields": {
+				"headline": "breaker cta headline",
+				"body": "breaker cta body"
+			}
+		},
+		{
+			"componentName": "TextBlock",
+			"fields": {
+				"headline": "text block headline",
+				"body": "text block body"
+			}
+		}
+	]
+}
